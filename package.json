@@ -7,8 +7,12 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@vueuse/core": "^10.10.0",
+    "axios": "^1.7.2",
     "core-js": "^3.8.3",
+    "pinia": "^2.1.7",
     "vue": "^3.2.13",
+    "vue-global-api": "^0.4.1",
     "vue-router": "^4.0.3"
   },
   "devDependencies": {
